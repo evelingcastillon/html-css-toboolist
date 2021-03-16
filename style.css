@@ -1,3 +1,21 @@
 *{
     margin: 0;
 }
+
+header {
+    margin-left: 10px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.logo-title {
+    font-size: 50px;
+    font-weight: 600;
+    inline-size: 50px;
+    vertical-align: top;
+}
+
+main {
+    background-color: ;
+}
